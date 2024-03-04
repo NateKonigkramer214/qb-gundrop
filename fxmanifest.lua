@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Cadburry#7547'
+author 'Ven1m'
 description 'Item Air drop system for qbcore'
 version '1.0'
 
